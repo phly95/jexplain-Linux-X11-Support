@@ -1,0 +1,8 @@
+deepl
+groq
+keyboard
+pyautogui
+pyperclip
+win32gui
+win32console
+azure-cognitiveservices-speech
